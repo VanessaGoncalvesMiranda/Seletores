@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+section {
+    text-align: center;
+}
+
+div {
+    align-items: center;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    margin: -1.6px;
+    
+}
+
+
+#corner {
+    border: 3px solid #000;
+    background-color: #FF0000;
+}
+
+.vermelho {
+    background-color: #FF0000;
+
+}
+
+.azul {
+    background-color: #00B0F0;
+}
+
+.amarelo {
+    background-color: #FFFF00;
+}
+
+.verde {
+    background-color: #00B050;
+}
